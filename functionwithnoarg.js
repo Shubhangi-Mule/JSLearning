@@ -1,6 +1,6 @@
 // Function with no argument and no return value
 function show(){
-    console.log('My name is Gajanan');
+    console.log('My name is Shubhangi');
     console.log('I am Technical lead');
     console.log('My tech skill is - Java + Angular + React + DevOps + ');
 }
