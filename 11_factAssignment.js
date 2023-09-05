@@ -11,3 +11,4 @@ const factorialOf = integer => {
   console.log(factorialOf(9));  
   console.log(factorialOf(11));
   console.log(factorialOf(7));
+  console.log(factorialOf(12));
